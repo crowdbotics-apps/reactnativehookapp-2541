@@ -1,0 +1,3 @@
+rootProject.name = 'reactnativehookapp_2541'
+
+include ':app'
